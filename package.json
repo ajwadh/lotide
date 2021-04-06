@@ -1,0 +1,26 @@
+{
+  "name": "@ajwadh/lotide",
+  "version": "1.0.0",
+  "description": "Learning the fundamentals - lotide",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajwadh/lotide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajwadh/lotide/issues"
+  },
+  "homepage": "https://github.com/ajwadh/lotide#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
